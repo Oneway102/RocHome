@@ -1,0 +1,74 @@
+/* Local CSS. */
+
+.panorama .panorama-sections1 {
+  position: relative;
+  /*width: 10000px;*/
+  width: auto;
+  height: auto;
+  overflow: hidden;
+}
+
+.panorama .panorama-sections1 .panorama-column {
+  position: relative;
+  float: left;
+  width: auto;
+  height: auto;
+  margin-right: 75px;
+}
+
+.panorama .panorama-sections1 .panorama-column.tile-span-1 {
+  width: 160px;
+  margin-left: 0;
+}
+
+.panorama .panorama-sections1 .panorama-column.tile-span-2 {
+  width: 320px;
+  margin-left: 0;
+}
+
+.panorama .panorama-sections1 .panorama-column.tile-span-3 {
+  width: 480px;
+  margin-left: 0;
+}
+
+.panorama .panorama-sections1 .panorama-column.tile-span-4 {
+  width: 640px;
+  margin-left: 0;
+}
+
+.panorama .panorama-sections1 .panorama-column.tile-span-5 {
+  width: 640px;
+  margin-left: 0;
+}
+
+.panorama .panorama-sections1 .panorama-column.tile-span-6 {
+  width: 800px;
+  margin-left: 0;
+}
+
+.panorama .panorama-sections .panorama-column.tile-span-7 {
+  width: 960px;
+  margin-left: 0;
+}
+
+.panorama .panorama-sections .panorama-column.tile-span-8 {
+  width: 1120px;
+  margin-left: 0;
+}
+
+
+ /* Large desktop */
+@media (min-width: 1200px) {
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+}
