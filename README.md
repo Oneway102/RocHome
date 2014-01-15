@@ -3,10 +3,7 @@ RocHome
 
 A simple web app launcher for Android devices, with Metro UI style.
 
-Screenshot1:
+Screenshots:
 
-![screenshot1](help/rochome.jpg)
+![screenshot1](help/rochome.jpg) . ![screenshot2](help/rochome2.jpg)
 
-Screenshot2:
-
-![screenshot2](help/rochome2.jpg)
